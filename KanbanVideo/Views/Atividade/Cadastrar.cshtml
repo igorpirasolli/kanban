@@ -5,21 +5,18 @@
     <form asp-action="Cadastrar" asp-controller="Atividade" method="post">
 
         <div class="mb-3">
-            <label class="form-label">Titulo</label>
+            <label class="form-label">Título</label>
             <input type="text" class="form-control" asp-for="Titulo" />
         </div>
-        
+
         <div class="mb-3">
             <label class="form-label">Descrição</label>
             <input type="text" class="form-control" asp-for="Descricao" />
         </div>
-        
+
         <div class="mb-3">
             <label class="form-label">Status</label>
-            <select 
-                asp-for="StatusId"
-                class="form-select"
-                asp-items="@(new SelectList(ViewBag.Status, "Id", "Nome"))">
+            <select asp-for="StatusId" class="form-select" asp-items="@(new SelectList(ViewBag.Status, "Id", "Nome"))">
 
             </select>
         </div>

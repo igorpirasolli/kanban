@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\igorf\\OneDrive\\Área de Trabalho\\pastas\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\KanbanVideo.csproj": {}
+    "C:\\Users\\igorf\\OneDrive\\Área de Trabalho\\alura\\teste1\\kanban\\KanbanVideo\\KanbanVideo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\igorf\\OneDrive\\Área de Trabalho\\pastas\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\KanbanVideo.csproj": {
+    "C:\\Users\\igorf\\OneDrive\\Área de Trabalho\\alura\\teste1\\kanban\\KanbanVideo\\KanbanVideo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\igorf\\OneDrive\\Área de Trabalho\\pastas\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\KanbanVideo.csproj",
+        "projectUniqueName": "C:\\Users\\igorf\\OneDrive\\Área de Trabalho\\alura\\teste1\\kanban\\KanbanVideo\\KanbanVideo.csproj",
         "projectName": "KanbanVideo",
-        "projectPath": "C:\\Users\\igorf\\OneDrive\\Área de Trabalho\\pastas\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\KanbanVideo.csproj",
+        "projectPath": "C:\\Users\\igorf\\OneDrive\\Área de Trabalho\\alura\\teste1\\kanban\\KanbanVideo\\KanbanVideo.csproj",
         "packagesPath": "C:\\Users\\igorf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\igorf\\OneDrive\\Área de Trabalho\\pastas\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\obj\\",
+        "outputPath": "C:\\Users\\igorf\\OneDrive\\Área de Trabalho\\alura\\teste1\\kanban\\KanbanVideo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
