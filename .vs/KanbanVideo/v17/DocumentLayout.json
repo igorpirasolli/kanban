@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\curso c# poo\\mvc\\kanbanvideo\\kanbanvideo\\controllers\\atividadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|solutionrelative:kanbanvideo\\controllers\\atividadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\curso c# poo\\mvc\\kanbanvideo\\kanbanvideo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|solutionrelative:kanbanvideo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\curso c# poo\\mvc\\kanbanvideo\\kanbanvideo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|solutionrelative:kanbanvideo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\curso c# poo\\mvc\\kanbanvideo\\kanbanvideo\\migrations\\20250109221626_adicionandobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|solutionrelative:kanbanvideo\\migrations\\20250109221626_adicionandobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\curso c# poo\\mvc\\kanbanvideo\\kanbanvideo\\views\\atividade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|solutionrelative:kanbanvideo\\views\\atividade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\curso c# poo\\mvc\\kanbanvideo\\kanbanvideo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|solutionrelative:kanbanvideo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\curso c# poo\\mvc\\kanbanvideo\\kanbanvideo\\services\\atividade\\atividadeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|solutionrelative:kanbanvideo\\services\\atividade\\atividadeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\curso c# poo\\mvc\\kanbanvideo\\kanbanvideo\\services\\atividade\\iatividadeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4C89E3-880F-4C98-A035-4D24D87E6E1C}|KanbanVideo\\KanbanVideo.csproj|solutionrelative:kanbanvideo\\services\\atividade\\iatividadeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KanbanVideo\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "KanbanVideo\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T22:55:37.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KanbanVideo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KanbanVideo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwCYAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T02:28:24.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AtividadeController.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Controllers\\AtividadeController.cs",
+              "RelativeDocumentMoniker": "KanbanVideo\\Controllers\\AtividadeController.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Controllers\\AtividadeController.cs",
+              "RelativeToolTip": "KanbanVideo\\Controllers\\AtividadeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:14:54.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250109221626_adicionandobanco.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Migrations\\20250109221626_adicionandobanco.cs",
+              "RelativeDocumentMoniker": "KanbanVideo\\Migrations\\20250109221626_adicionandobanco.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Migrations\\20250109221626_adicionandobanco.cs",
+              "RelativeToolTip": "KanbanVideo\\Migrations\\20250109221626_adicionandobanco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T02:52:44.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "KanbanVideo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "KanbanVideo\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T02:40:17.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AtividadeServices.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Services\\Atividade\\AtividadeServices.cs",
+              "RelativeDocumentMoniker": "KanbanVideo\\Services\\Atividade\\AtividadeServices.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Services\\Atividade\\AtividadeServices.cs",
+              "RelativeToolTip": "KanbanVideo\\Services\\Atividade\\AtividadeServices.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAWwGQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:07:07.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAtividadeInterface.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Services\\Atividade\\IAtividadeInterface.cs",
+              "RelativeDocumentMoniker": "KanbanVideo\\Services\\Atividade\\IAtividadeInterface.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Services\\Atividade\\IAtividadeInterface.cs",
+              "RelativeToolTip": "KanbanVideo\\Services\\Atividade\\IAtividadeInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:06:56.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Views\\Atividade\\Index.cshtml",
+              "RelativeDocumentMoniker": "KanbanVideo\\Views\\Atividade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\curso c# poo\\mvc\\KanbanVideo\\KanbanVideo\\Views\\Atividade\\Index.cshtml",
+              "RelativeToolTip": "KanbanVideo\\Views\\Atividade\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEcAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T01:57:48.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
